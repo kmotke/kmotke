@@ -1,6 +1,6 @@
 # Kshitij Motke
 <p><img align="right" src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="200"/></p>
-#### I am the Designer who can make your logo bigger 😉
+<h4>I am the Designer who can make your logo bigger 😉</h4>
 
 - 🔭 I’m currently working on Intern On some amazing projects  
 - 📫 How to reach me: kshitijmotke5321@gmail.com 
