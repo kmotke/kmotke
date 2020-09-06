@@ -1,6 +1,8 @@
 # Kshitij Motke
+<img align="right" src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="200"/>
 #### I am the Designer who can make your logo bigger 😉
- <p> <img align="right" src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="100"/>
+
+ <p> 
 - 🔭 I’m currently working on Intern On some amazing projects  
 <br>- 📫 How to reach me: kshitijmotke5321@gmail.com 
 <br>- 💡 Pronouns: Less is more 
