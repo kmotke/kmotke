@@ -1,7 +1,7 @@
 ### Hi there 👋, Kshitij Motke
 #### I am the Designer who can make your logo bigger 😉
 ![I am the Designer who can make your logo bigger 😉]
-(https://drive.google.com/file/d/1RBRaFOKWqpiv6Jwj13Gc2uQ7qIz32SiL/view?usp=sharing)
+
 
 I am a Software Engineer Passionate about Designing and Learning to code.
 
