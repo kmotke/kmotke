@@ -5,7 +5,7 @@
 <br>- 📫 How to reach me: kshitijmotke5321@gmail.com 
 <br>- 💡 Pronouns: Less is more 
 <img align="right" src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="200"/>
-SEE YA
+<input type="text" aligh="right"> See YA
 <align="left">
 
 
