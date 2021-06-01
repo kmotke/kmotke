@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on Intern On some amazing projects  
 - 📫 How to reach me: kshitijmotke5321@gmail.com 
-- 💡 Pronouns: Less is more 
+- 💡 Strongly believe : Less is more 
 
 
 
